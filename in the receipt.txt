@@ -1,0 +1,17 @@
+date
+receipt no
+payment amount
+split details
+cust name
+type of project
+warranty period
+warranty conditions
+currency type
+free with this project
+date of start
+date of completion
+authorized staff sign
+authorized cust sign
+cust contact details
+support nos. and details
+a short desc of project
